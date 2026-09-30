@@ -1,7 +1,7 @@
 ProSRL
 
 Requirements
-ProSRL is executed on Linux (ideally Ubuntu 22.04.3).
+ProSRL is executed on Linux.
 
 pip
 In your virtual environment, run:
