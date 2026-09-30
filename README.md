@@ -1,12 +1,7 @@
-TGCN
-Cross-Project Defect Prediction Based on Transfer Graph Convolutional Network
+ProSRL
 
 Requirements
-TGCN is executed on Linux (ideally Ubuntu 22.04.3).
-
-Prerequisites & Installation
-First, clone the repository to your local machine:
-git clone https://github.com/HaoKan001/TGCN
+ProSRL is executed on Linux (ideally Ubuntu 22.04.3).
 
 pip
 In your virtual environment, run:
